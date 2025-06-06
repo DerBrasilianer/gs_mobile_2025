@@ -20,7 +20,7 @@ Aplicativo mobile desenvolvido em **React Native com Expo**, criado como soluç�
 ## 📽️ Apresentação do Projeto
 
 Vídeo de Demonstração no YouTube:  
-🔗 **[Link para o vídeo](https://www.youtube.com/watch?v=SEU-LINK-AQUI)**
+🔗 **[Link para o vídeo](https://www.youtube.com/watch?v=iw8M--e54DU)**
 
 ---
 
