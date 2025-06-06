@@ -76,17 +76,9 @@ Este aplicativo foi idealizado como uma solução digital para ajudar autoridade
    ```
 
 4. **Outras bibliotecas utilizadas**:
-   - Armazenamento local:
-     ```bash
-     expo install @react-native-async-storage/async-storage
-     ```
    - Ícones:
      ```bash
      npm install @expo/vector-icons
-     ```
-   - Gráficos e SVG:
-     ```bash
-     npm install react-native-chart-kit react-native-svg
      ```
    - Tipagem e suporte a TypeScript:
      ```bash
@@ -133,8 +125,6 @@ O app utiliza **Drawer Navigation** como estrutura principal:
 - **TypeScript**
 - **Axios**
 - **React Navigation (Drawer + Tabs)**
-- **AsyncStorage**
-- **React Native Chart Kit**
 - **Componentes Funcionais com Hooks**
 - **Estilo escuro customizado com StyleSheet**
 
@@ -149,7 +139,7 @@ O app utiliza **Drawer Navigation** como estrutura principal:
 
 ## 🎯 Objetivo da Global Solution
 
-O projeto busca criar um **sistema móvel de gerenciamento humanitário**, aplicável em situações reais de desastres naturais, onde o controle de **recursos**, **pessoas** e **infraestrutura temporária** é vital para uma resposta rápida e organizada. O aplicativo simula as operações de um órgão público ou ONG responsável por coordenar o atendimento às vítimas em abrigos temporários.
+O projeto busca criar um **sistema móvel de gestão de abrigos**, aplicável em situações reais de desastres naturais, onde o controle de **recursos**, **pessoas** e **infraestrutura temporária** é vital para uma resposta rápida e organizada. O aplicativo simula as operações responsáveis por coordenar o atendimento às vítimas em abrigos temporários.
 
 ---
 
