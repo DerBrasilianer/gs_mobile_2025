@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "gs_mobile_2025",
+    "slug": "gs_mobile_2025",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/fiap-logo.png"
+    }
+  }
+}
