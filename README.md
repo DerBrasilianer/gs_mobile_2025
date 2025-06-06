@@ -41,7 +41,7 @@ Este aplicativo foi idealizado como uma solução digital para ajudar autoridade
 - Layout intuitivo com tema escuro e botões padronizados.
 - Navegação fluida entre telas com **Drawer** e **Bottom Tabs**.
 
-> Os dados são obtidos a partir de uma **API externa**, simulando uma base de dados real.
+> Os dados são obtidos a partir de uma **API externa** utilizando Java e interagindo com um banco de dados.
 
 ---
 
