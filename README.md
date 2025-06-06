@@ -4,7 +4,7 @@ Aplicativo mobile desenvolvido em **React Native com Expo**, criado como soluç�
 
 ---
 
-## 👨‍💻 Integrantes
+## 👨‍💻 Integrantes - Grupo LTAKN
 
 - **Enzo Prado Soddano** – RM: 557937  
   [GitHub](https://github.com/DerBrasilianer)
